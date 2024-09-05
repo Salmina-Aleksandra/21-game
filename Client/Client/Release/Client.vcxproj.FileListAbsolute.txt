@@ -1,0 +1,17 @@
+D:\Sartasov\UDP_33\Client\Client\Release\Client.vcxproj.AssemblyReference.cache
+D:\Sartasov\UDP_33\Client\Client\Release\Client.Form1.resources
+D:\Sartasov\UDP_33\Client\Client\Release\Client.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\UDP_33\Client\Client\Release\Client.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\UDP_33\Client\Client\Release\Client.Form1.resources
+C:\Users\User\Desktop\UDP_33\Client\Client\Release\Client.vcxproj.GenerateResource.cache
+C:\Users\Ekaterina\Downloads\Шашки_udp\Client\Client\Release\Client.vcxproj.AssemblyReference.cache
+C:\Users\Ekaterina\Downloads\Шашки_udp\Client\Client\Release\Client.Form1.resources
+C:\Users\Ekaterina\Downloads\Шашки_udp\Client\Client\Release\Client.vcxproj.GenerateResource.cache
+C:\Users\super\Downloads\Шашки_udp\��誨_udp\Client\Client\Release\Client.vcxproj.AssemblyReference.cache
+C:\Users\super\Downloads\Шашки_udp\��誨_udp\Client\Client\Release\Client.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\super\Downloads\Шашки_udp\��誨_udp\Client\Client\Release\Client.Form1.resources
+C:\Users\super\Downloads\Шашки_udp\��誨_udp\Client\Client\Release\Client.vcxproj.GenerateResource.cache
+D:\21(очко)\Client\Client\Release\Client.vcxproj.AssemblyReference.cache
+D:\21(очко)\Client\Client\Release\Client.vcxproj.SuggestedBindingRedirects.cache
+D:\21(очко)\Client\Client\Release\Client.Form1.resources
+D:\21(очко)\Client\Client\Release\Client.vcxproj.GenerateResource.cache

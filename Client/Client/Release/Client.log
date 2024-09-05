@@ -1,0 +1,12 @@
+﻿  Client.cpp
+D:\21(очко)\Client\Client\Form1.h(628,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\21(очко)\Client\Client\Form1.h(629,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\21(очко)\Client\Client\Form1.h(637,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\21(очко)\Client\Client\Form1.h(638,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\21(очко)\Client\Client\Form1.h(760,28): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+D:\21(очко)\Client\Client\Form1.h(769,29): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+D:\21(очко)\Client\Client\Form1.h(751,12): warning C4101: Buf2: неиспользованная локальная переменная
+D:\21(очко)\Client\Client\Form1.h(836,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\21(очко)\Client\Client\Form1.h(1113,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LINK : указан параметр /LTCG, но не требуется создание кода; удалите /LTCG из командной строки компоновки для повышения производительности компоновщика
+  Client.vcxproj -> D:\21(очко)\Client\Release\Client.exe
