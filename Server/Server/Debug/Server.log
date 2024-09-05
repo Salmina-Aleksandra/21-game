@@ -1,0 +1,16 @@
+﻿cl : командная строка warning D9035: использование параметра "clr:pure" нежелательно, он будет удален в следующих выпусках
+  stdafx.cpp
+cl : командная строка warning D9035: использование параметра "clr:pure" нежелательно, он будет удален в следующих выпусках
+  AssemblyInfo.cpp
+C:\Users\Ekaterina\Downloads\Шашки_udp\Server\Server\AssemblyInfo.cpp(40,29): warning C4947: System::Security::Permissions::SecurityAction::RequestMinimum: помечен как устаревший
+C:\Users\Ekaterina\Downloads\Шашки_udp\Server\Server\AssemblyInfo.cpp(40,29): message : Сообщение: "Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information."
+  Server.cpp
+C:\Users\Ekaterina\Downloads\Шашки_udp\Server\Server\Form1.h(1603,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ekaterina\Downloads\Шашки_udp\Server\Server\Form1.h(1604,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ekaterina\Downloads\Шашки_udp\Server\Server\Form1.h(1612,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Ekaterina\Downloads\Шашки_udp\Server\Server\Form1.h(1613,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Создание кода...
+cl : командная строка warning D9035: использование параметра "clr:pure" нежелательно, он будет удален в следующих выпусках
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+LINK : fatal error LNK1104: не удается открыть файл "MSVCURTD.LIB"
